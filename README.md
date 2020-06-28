@@ -12,12 +12,12 @@ system("bash --rcfile /home/roy/e/deepl/bin/activate");
 ```
 ## Modo de uso:
 
-Yo edité el archivo`.bashrc` de ubuntu y le agregué un alias `alias envz='opt/envz'` dado que el archivo `envz` es el resultado de la compilación: 
+El archivo `envz` es el resultado de la compilación: 
 ```bash 
 g++ envz.cpp -o envz
 ``` 
-El archivo `envz` lo cambié a la carpeta `opt`, obvio primero debes darle permisos de ejecución: `chmod +x envz`.   
+1.- Primero debes darle permisos de ejecución al archivo que creaste: `chmod +x envz`.  
 
-**NOTA: Los permisos debes cambiarlos antes de mover de carpeta el archivo.**   
+Ahora debes mover el archivo a `/usr/bin/envz` para que cada que escribas `envz` en `terminal` se muestre el gestor.
 
-Ahora si, escribiremos `source .bashrc`. De esta manera cada que escribas en terminal `envz` desplegara el menú del gestor.  
+
