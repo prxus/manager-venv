@@ -7,9 +7,9 @@ int main(){
 int x;
 
 system("clear");
- 10 cout<<"  "<<endl;
- 11 cout<<"          GESTOR DE ENTORNOS VIRTUALES BY SLUB3   "<<endl;
- 12 cout<<""<<endl;
+ 10 cout<<"                                                      "<<endl;
+ 11 cout<<"          GESTOR DE ENTORNOS VIRTUALES BY SLUB3       "<<endl;
+ 12 cout<<"                                                      "<<endl;
  13 cout<<"  ===================================================="<<endl;
  14 cout<<"             Entornos virtuales Disponibles           "<<endl;
  15 cout<<"  ===================================================="<<endl;
@@ -32,8 +32,8 @@ system("clear");
  32 cout<<"  #                                                  #"<<endl;
  33 cout<<"  #   NOTA: Escribe 'exit' para salir del entorno    #"<<endl;
  34 cout<<"  ===================================================="<<endl;
- 35 cout<<"    "<<endl;
- 36 cout<<"    "<<endl;
+ 35 cout<<"                                                      "<<endl;
+ 36 cout<<"                                                      "<<endl;
  37 cout<<"                 Elige una opción: ";
 
 cin>>x;
