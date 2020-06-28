@@ -18,6 +18,6 @@ g++ envz.cpp -o envz
 ``` 
 1.- Primero debes darle permisos de ejecución al archivo que creaste: `chmod +x envz`.  
 
-Ahora debes mover el archivo a `/usr/bin/envz` para que cada que escribas `envz` en `terminal` se muestre el gestor.
+2.- Ahora debes mover el archivo a `/usr/bin/envz` para que cada que escribas `envz` en `terminal` se muestre el gestor.
 
 
