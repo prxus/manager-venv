@@ -1,5 +1,5 @@
  
-# Gestor de entornos virtuales (virtualnev de python) en C++
+# Gestor de entornos virtuales (virtualenv de python) en C++
 
 Se pudo hacer con `switch`, pero me dio flojera. Así que me la llevé a puro copy-paste de `if`
 
