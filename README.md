@@ -18,6 +18,6 @@ g++ envz.cpp -o envz
 ``` 
 El archivo `envz` lo cambié a la carpeta `opt`, obvio primero debes darle permisos de ejecución: `chmod +x envz`.   
 
-**NOTA: los permisos se los cambias cuando aún no lo hyas cambiado de carpeta.**   
+**NOTA: Los permisos debes cambiarlos antes de mover de carpeta el archivo.**   
 
 Ahora si, escribiremos `source .bashrc`. De esta manera cada que escribas en terminal `envz` desplegara el menú del gestor.  
