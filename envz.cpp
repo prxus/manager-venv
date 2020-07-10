@@ -8,7 +8,7 @@ int x;
 
 system("clear");
  10 cout<<"                                                      "<<endl;
- 11 cout<<"          GESTOR DE ENTORNOS VIRTUALES BY SLUB3       "<<endl;
+ 11 cout<<"          GESTOR DE ENTORNOS VIRTUALES BY PRXUS       "<<endl;
  12 cout<<"                                                      "<<endl;
  13 cout<<"  ===================================================="<<endl;
  14 cout<<"             Entornos virtuales Disponibles           "<<endl;
